@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SIMPEG Ciamis</string>
+    <string name="no_connection_title">Tidak Ada Koneksi</string>
+    <string name="no_connection_message">Periksa koneksi internet Anda lalu coba lagi.</string>
+    <string name="retry">Coba Lagi</string>
+</resources>
